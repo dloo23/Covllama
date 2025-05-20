@@ -107,4 +107,4 @@ Training options include:
 - COVIDx CXR-4 (https://www.kaggle.com/datasets/andyczhao/covidx-cxr2)
 - My Project Supervisor Dr. Shamsul Masum
 
-  ![covllama logo](https://github.com/user-attachments/assets/19e1fdf3-de89-481e-af34-d15133a5983d)
+![20250520_1122_Covllama Medical Logo_simple_compose_01jvpkd1pbf728w6mh00acq31y](https://github.com/user-attachments/assets/dac4f037-0950-4cd1-ae3c-1be47ef9d2c6)
